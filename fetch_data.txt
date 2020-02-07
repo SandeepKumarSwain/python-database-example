@@ -1,0 +1,3 @@
+('ID', 'NAME', 'SALARY')
+(1, 'Sandeep', 10000)
+(2, 'Kumar', 9000)

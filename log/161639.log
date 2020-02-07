@@ -1,0 +1,6 @@
+root - INFO - Started Log File
+root - INFO - Connection successful to a database : mysql
+root - INFO - Reading querry file from path : select_querry.txt
+root - INFO - Querry : select * from info
+root - INFO - Total no. of records = 10
+root - INFO - Saved records in fetch_data.xlsx file
