@@ -56,4 +56,4 @@ if __name__ == "__main__":
 
 
 # command to execute the file
-# python insert_data.py -c config.ini -d mysql -q insert_querry.txt -o xlsx
+# python insert_data.py -c config.ini -d mysql -r record.csv -q insert_query.txt

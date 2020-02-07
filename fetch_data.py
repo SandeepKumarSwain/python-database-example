@@ -10,6 +10,7 @@ def fetch_data(config_path, db_name, querry_file, outfile_type):
             config_path - path of the conifg file with file name
             db_name - name of the database
             querry_file - name of the querry file
+            outfile_type - type of the file in which the fetch data is saved
     '''
     # Connecting to the database
     connection = db_connect.db_connect(config_path, db_name)
